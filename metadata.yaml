@@ -1,0 +1,35 @@
+_repo: Nova-analysis-aquarum-Medeviensium_10054
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ekeberg, Anders Gustaf
+    birthdate: 1767
+    deathdate: 1813
+    gutenberg_agent_id: '35307'
+    url: http://www.gutenberg.org/2009/agents/35307
+creator:
+  author:
+    agent_name: Berzelius, Jöns Jakob, friherre
+    aliases:
+    - Berzelius, J. Jacob (Jöns Jacob), friherre
+    - Berzelius, Jons Jakob, friherre
+    birthdate: 1779
+    deathdate: 1848
+    gutenberg_agent_id: '3282'
+    url: http://www.gutenberg.org/2009/agents/3282
+    wikipedia: http://en.wikipedia.org/wiki/Jöns_Jakob_Berzelius
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10054'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TN'
+- !lcsh 'Mineral waters -- Sweden'
+- GITenberg
+title: Nova analysis aquarum Medeviensium
+url: http://www.gutenberg.org/ebooks/10054
