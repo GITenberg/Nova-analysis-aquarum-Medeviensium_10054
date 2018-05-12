@@ -1,5 +1,5 @@
 _repo: Nova-analysis-aquarum-Medeviensium_10054
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Ekeberg, Anders Gustaf
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1813
     gutenberg_agent_id: '35307'
     url: http://www.gutenberg.org/2009/agents/35307
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berzelius, Jöns Jakob, friherre
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3282
     wikipedia: http://en.wikipedia.org/wiki/Jöns_Jakob_Berzelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10054#Nova-analysis-aquarum-Medeviensium
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
